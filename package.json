@@ -2,10 +2,10 @@
   "name": "cinemania",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://tarasdeveloper.github.io/cinemania/",
+  "homepage": "https://GoitStudentsWorks.github.io/js_78_Tarasdeveloper/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /cinemania/"
+    "build": "parcel build src/*.html --public-url /js_78_Tarasdeveloper/"
   },
   "repository": {
     "type": "git",
